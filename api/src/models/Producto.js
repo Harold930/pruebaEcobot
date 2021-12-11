@@ -1,5 +1,5 @@
 import Sequelize from 'sequelize';
-import { sequelize} from '../db';
+import { sequelize} from '../db/db';
 
 const Producto = sequelize.define('products', {
     
@@ -16,7 +16,8 @@ const Producto = sequelize.define('products', {
             type: Sequelize.INTEGER
         },
         estado:{
-            type: Sequelize.BOOLEAN
+            type: Sequelize.BOOLEAN,
+            defaultValue: true
         }
 });
 

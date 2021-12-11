@@ -1,0 +1,128 @@
+[
+    {
+        "nombre": "SuperHiperÁcido" ,
+        "categoria": "golosinas",
+        "sabor": "Ácido",
+        "precio": 200,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Picante",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Amargo",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Ácido",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Amargo",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Picante",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Dulce",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Salado",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Dulce",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Salado",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Amargo",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Salado",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Ácido",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Ácido",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Salado",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Dulce",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Salado",
+        "precio":,
+        "estado": true
+    },
+    {
+        "nombre": "" ,
+        "categoria": "",
+        "sabor": "Picante",
+        "precio":,
+        "estado": true
+    }
+]
