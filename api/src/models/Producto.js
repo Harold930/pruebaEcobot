@@ -1,6 +1,6 @@
 import Sequelize from 'sequelize';
-import { sequelize} from '../db/db';
-
+import sequelize  from '../db/db.js';
+// console.log(sequelize)
 const Producto = sequelize.define('products', {
     
         nombre: {
@@ -18,7 +18,7 @@ const Producto = sequelize.define('products', {
         estado:{
             type: Sequelize.BOOLEAN,
             defaultValue: true
-        }
+        }        
 });
 
 export default Producto;

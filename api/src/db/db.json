@@ -1,128 +1,128 @@
 [
     {
         "nombre": "SuperHiperÁcido" ,
-        "categoria": "golosinas",
+        "categoria": "Golosinas",
         "sabor": "Ácido",
         "precio": 200,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Ají" ,
+        "categoria": "Condimentos",
         "sabor": "Picante",
-        "precio":,
+        "precio": 1000,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Cerveza" ,
+        "categoria": "Bebidas",
         "sabor": "Amargo",
-        "precio":,
+        "precio": 2000,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Naranja" ,
+        "categoria": "Frutas y verduras",
         "sabor": "Ácido",
-        "precio":,
+        "precio":1500,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Brócoli" ,
+        "categoria": "Frutas y verduras",
         "sabor": "Amargo",
-        "precio":,
+        "precio": 3000,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Salsa Valentina" ,
+        "categoria": "Condimentos",
         "sabor": "Picante",
-        "precio":,
+        "precio": 15000,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Chocolatina" ,
+        "categoria": "Golosinas",
         "sabor": "Dulce",
-        "precio":,
+        "precio": 200,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Maní salado" ,
+        "categoria": "Golosinas",
         "sabor": "Salado",
-        "precio":,
+        "precio": 1000,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "sprite" ,
+        "categoria": "Bebidas",
         "sabor": "Dulce",
-        "precio":,
+        "precio": 2500,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Sal" ,
+        "categoria": "Condimentos",
         "sabor": "Salado",
-        "precio":,
+        "precio": 1500,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Aloe vera" ,
+        "categoria": "Frutas y verduras",
         "sabor": "Amargo",
-        "precio":,
+        "precio": 2500,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Pimienta" ,
+        "categoria": "Condimentos",
         "sabor": "Salado",
-        "precio":,
+        "precio": 2500,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Limón" ,
+        "categoria": "Frutas y verduras",
         "sabor": "Ácido",
-        "precio":,
+        "precio": 3500,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
-        "sabor": "Ácido",
-        "precio":,
-        "estado": true
-    },
-    {
-        "nombre": "" ,
-        "categoria": "",
-        "sabor": "Salado",
-        "precio":,
-        "estado": true
-    },
-    {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Cocacola" ,
+        "categoria": "Bebidas",
         "sabor": "Dulce",
-        "precio":,
+        "precio": 2500,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Papas Lays" ,
+        "categoria": "Golosinas",
         "sabor": "Salado",
-        "precio":,
+        "precio": 2000,
         "estado": true
     },
     {
-        "nombre": "" ,
-        "categoria": "",
+        "nombre": "Colombina" ,
+        "categoria": "Golosinas",
+        "sabor": "Dulce",
+        "precio": 500,
+        "estado": true
+    },
+    {
+        "nombre": "Maní moto" ,
+        "categoria": "Golosinas",
+        "sabor": "Salado",
+        "precio": 1000,
+        "estado": true
+    },
+    {
+        "nombre": "Ají habanero" ,
+        "categoria": "Frutas y verduras",
         "sabor": "Picante",
-        "precio":,
+        "precio": 2500,
         "estado": true
     }
 ]
