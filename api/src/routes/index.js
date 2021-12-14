@@ -7,5 +7,4 @@ const productos = require('./productos.js');
 router.use('/', chargeDB);
 router.use('/productos', productos);
 
-
 module.exports = router;
